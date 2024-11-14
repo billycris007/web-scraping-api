@@ -3,7 +3,7 @@
 ## API CALL
 
 ### POST /api/scraper
-- **Description**: This API will scrape the website meta tag description and get a summary from ChatGpt and stored the data in mongodb database
+- **Description**: This API will scrape the website meta tag description usign the puppeteer library and get a summary from ChatGpt and stored the data in mongodb database
 
 - **Request Body**: 
 ```
